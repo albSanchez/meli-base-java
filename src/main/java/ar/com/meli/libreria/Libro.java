@@ -1,6 +1,6 @@
 package ar.com.meli.libreria;
 
-public abstract class Libro {
+public  class Libro {
 
     String editorial;
     String titulo;
